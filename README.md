@@ -6,8 +6,4 @@
 <p> 과제 : 첫번째 과제 </p>
 
 
-<h1>
- <sup> ERD </sup>
-</h1>
 
-![mission1 ERD.png](..%2F..%2Fmission1%20ERD.png)
