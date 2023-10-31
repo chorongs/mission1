@@ -7,4 +7,4 @@
 
 
 
-![mission1 ERD.png](..%2F..%2Fmission1%20ERD.png)
+<img width="735" alt="mission1 ERD" src="https://github.com/chorongs/mission1/assets/117059083/736c1e09-8622-44b7-b7da-10eeefefceae">
