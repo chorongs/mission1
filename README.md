@@ -6,5 +6,9 @@
 <p> 과제 : 첫번째 과제 </p>
 
 
+<h1>
+    <sup><sup>ERD</sup> </sup>
+</h1>
+
 
 <img width="735" alt="mission1 ERD" src="https://github.com/chorongs/mission1/assets/117059083/736c1e09-8622-44b7-b7da-10eeefefceae">
